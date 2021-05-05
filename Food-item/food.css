@@ -1,0 +1,31 @@
+#top-pane{
+    background-color: lightblue;
+    padding: 20px;
+    
+}
+body{
+    margin:0;
+    background-color: #def3fd;
+}
+.menu-item{
+    font-weight: 400;
+    font-size: 30px;
+    padding: 0 10px;
+}
+.container{
+    margin-left: 35px;
+    font-size: 20px;
+}
+.food-wrap{
+    text-align: center;
+}
+.food-wrap img{
+    width: 600px;
+    height: 400px;
+}
+.container ul a{
+    color:red;
+}
+.container a:hover{
+    color: green;
+}
