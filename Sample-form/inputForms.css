@@ -1,0 +1,38 @@
+body{
+    background-color: #f2f6ff;
+}
+.container{
+    padding: 29px;
+    border: 1px solid #ccc;
+    margin-left: 30%;
+    margin-right: 30%;   
+    text-align: center; 
+    height: auto;
+}
+.h1{
+    font-size: 32px;
+    padding-top : 56px;
+    padding-bottom: 32px;
+}
+.social-tags img{
+    width: 50px;
+    Height: 50px;
+    padding: 16px 32px;
+    margin-bottom: 20px;
+}
+.text-area input{
+    width: 100%;
+    font-size: 18px;
+    padding-top: 10px;
+    padding-bottom: 12px;
+    margin-bottom: 36px;
+    border: none;
+    border-bottom: 1px solid #81a2ee;
+}
+button{
+    background-color: #0056ff;
+    padding: 12px 24px;
+    font-size: 18px;
+    color: white;
+    border: none;
+}
