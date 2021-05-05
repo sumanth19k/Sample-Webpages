@@ -116,3 +116,15 @@ body{
         border: none;
     
 }
+
+.image-content img{
+    margin-left: 30%;
+    width: 40%;
+    height: 50%;
+}
+.image-content p{
+    text-align: center;
+    font-family: Raleway;
+    font-weight: 900;
+    font-size: 30px;
+}
